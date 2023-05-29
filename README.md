@@ -1,6 +1,6 @@
 # PlayCanvas Texture Repetition
 
-Read more about preventing texture repetition [here](https://iquilezles.org/articles/texturerepetition/). The project is just a copy/paste of https://www.shadertoy.com/view/Xtl3zf and integration it into PlayCanvas. I had written [a similar solution before Iq's solution](https://www.shadertoy.com/view/Xtl3zf) but it has 3 lookups of original texture instead of 2, so I prefer Iq's solution. Consider the project as PoC.
+Read more about preventing texture repetition [here](https://iquilezles.org/articles/texturerepetition/). The project is just a copy/paste of https://www.shadertoy.com/view/Xtl3zf and integration it into PlayCanvas. I had written [a similar solution before Iq's solution](https://www.shadertoy.com/view/Xtl3zf) but it has 3 lookups instead of 2, so I prefer Iq's solution. Consider the project as PoC.
 
 PlayCanvas project: https://playcanvas.com/project/1080774/overview/texture-repetition
 
