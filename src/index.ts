@@ -1,1 +1,1 @@
-import "./components/template-script-component"
+import './components/prevent-texture-repetition';
