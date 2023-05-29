@@ -4,7 +4,7 @@ Read more about preventing texture repetition [here](https://iquilezles.org/arti
 
 PlayCanvas project: https://playcanvas.com/project/1080774/overview/texture-repetition
 
-<img width="800" alt="Preview" src="https://github.com/querielo/playcanvas-texture-repetition/assets/104348270/1b5607e9-9af3-448e-88bf-d5ae21d7d61a">
+<img width="800" alt="Preview" src="https://github.com/querielo/playcanvas-texture-repetition/assets/104348270/45650465-c886-4860-8b69-f7ae2ed8f42f">
 
 The repo is based on the [Playcanvas TypeScript Template](https://github.com/querielo/playcanvas-typescript-template). I highly recommend you to check it out. Read more about usage of PlayCanvas Texture Repetition in the Playcanvas TypeScript Template.
 
@@ -14,7 +14,7 @@ The repo contains the next Typescript ScriptComponent for Playcanvas:
 
 * **preventTextureRepetition** -- the script that prevents texture repetition. It is not perfect, but it is good enough for most cases. It is defined in **prevent-texture-repetition.js**. So, copy/paste it into your project.
 
-<img width="507" alt="Image with usage example in Playcanvas Editor" src="https://github.com/querielo/playcanvas-texture-repetition/assets/104348270/5c054f83-f17f-4a1a-a0aa-69b7908246b8">
+<img width="507" alt="Image with usage example in Playcanvas Editor" src="https://github.com/querielo/playcanvas-texture-repetition/assets/104348270/4f834f04-b78b-428d-87f1-369f86d57723">
 
 ## Plans
 
